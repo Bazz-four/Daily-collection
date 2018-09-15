@@ -1,0 +1,13 @@
+分别是一般信息console.info()
+
+除错信息console.debug()
+
+警告提示console.warn()
+
+错误提示console.error()
+
+显示节点信息(node)console.dir()
+
+判断一个表达式为true/false--->>console.assert()
+
+追踪函数的调用轨迹console.trace()追踪一个函数的调用轨迹
